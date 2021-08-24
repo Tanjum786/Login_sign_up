@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "Username": "tanjum kadkol",
+            "Password": "tanjumK@123",
+            "Profile": {
+                "description": "imkfdfgl;g",
+                "d_o_b": "09.09.2021",
+                "Gender": "female",
+                "Hobbies": "sleeping"
+            }
+        },
+        {
+            "Username": "tanjum",
+            "Password": "Tanjum@12",
+            "Profile": {
+                "description": "tanjum kslkakddwqeiu",
+                "d_o_b": "16\\12\\1998",
+                "Gender": "female",
+                "Hobbies": "ijdsikrjowe"
+            }
+        }
+    ]
+}
